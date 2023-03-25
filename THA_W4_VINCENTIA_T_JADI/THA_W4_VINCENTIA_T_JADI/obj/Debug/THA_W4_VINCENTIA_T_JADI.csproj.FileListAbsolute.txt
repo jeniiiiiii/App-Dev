@@ -1,0 +1,11 @@
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.csproj.AssemblyReference.cache
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.Form1.resources
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.Properties.Resources.resources
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.csproj.GenerateResource.cache
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.csproj.CoreCompileInputs.cache
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\bin\Debug\THA_W4_VINCENTIA_T_JADI.exe.config
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\bin\Debug\THA_W4_VINCENTIA_T_JADI.exe
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\bin\Debug\THA_W4_VINCENTIA_T_JADI.pdb
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.exe
+C:\Users\jenni\source\repos\THA_W4_VINCENTIA_T_JADI\THA_W4_VINCENTIA_T_JADI\obj\Debug\THA_W4_VINCENTIA_T_JADI.pdb
