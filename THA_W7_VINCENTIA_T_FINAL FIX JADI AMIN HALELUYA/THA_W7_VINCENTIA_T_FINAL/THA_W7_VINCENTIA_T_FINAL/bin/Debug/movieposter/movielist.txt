@@ -1,0 +1,13 @@
+MONSTER INC,.\movieposter\0.jpeg
+BIG HERO 6,.\movieposter\1.jpeg
+TANGLED,.\movieposter\2.jpeg
+COCO,.\movieposter\3.jpeg
+ZOOTOPIA,.\movieposter\4.jpeg
+ENCHANTED,.\movieposter\5.jpeg
+FROZEN,.\movieposter\6.jpeg
+FROZEN II,.\movieposter\7.jpeg
+DUMBO,.\movieposter\8.jpeg
+MOANA,.\movieposter\9.jpeg
+TARZAN,.\movieposter\10.jpeg
+SOUL,.\movieposter\11.jpeg
+

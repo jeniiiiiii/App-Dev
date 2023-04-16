@@ -1,0 +1,13 @@
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\bin\Debug\THA_W7_VINCENTIA_T_FINAL.exe.config
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\bin\Debug\THA_W7_VINCENTIA_T_FINAL.exe
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\bin\Debug\THA_W7_VINCENTIA_T_FINAL.pdb
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.csproj.AssemblyReference.cache
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.Form1.resources
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.Properties.Resources.resources
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.csproj.GenerateResource.cache
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.exe
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.pdb
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.Form2.resources
+C:\Users\jenni\source\repos\THA_W7_VINCENTIA_T_FINAL\THA_W7_VINCENTIA_T_FINAL\obj\Debug\THA_W7_VINCENTIA_T_FINAL.Form3.resources
